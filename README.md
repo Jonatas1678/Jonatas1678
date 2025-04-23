@@ -12,6 +12,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jonatas-WORDPRESS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg>
+    <img align="center" alt="Jonatas-PHP" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg>
   <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
