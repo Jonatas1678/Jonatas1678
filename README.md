@@ -18,8 +18,9 @@
   <img align="center" alt="Jonatas-REACT" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg>
   <img align="center" alt="Jonatas-PY" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg>
   <img align="center" alt="Jonatas-DART" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg>
-  <img align="center" alt="Jonatas-POSTGRESQL" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg>
+  <img align="center" alt="Jonatas-FLUTTER" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg>
   <img align="center" alt="Jonatas-KOTLIN" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg>
+  <img align="center" alt="Jonatas-POSTGRESQL" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg>
   <img align="center" alt="Jonatas-JAVA" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg>
 <div>
 
