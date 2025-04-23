@@ -3,6 +3,7 @@
 - 👨‍🎓 System Analysis and Development Degree - FIAP (2022 - 2023)
 - 😄 Passionate about technology!
 - 📫 contact: barbosajonatas306@gmail.com
+- https://jonatas1678.github.io/Linkmy/
 
 
 <div>
