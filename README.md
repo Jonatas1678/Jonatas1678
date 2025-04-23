@@ -10,6 +10,9 @@
   <a href="https://github.com/Jonatas1678">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatas1678&show_icons=true&theme=dark&include_all_comits=true&count_private=true&border_radius=30px"/>
 </div>
+<div>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonatas1678&show_icons=true&locale=en&layout=compact"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonatas-WORDPRESS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg>
